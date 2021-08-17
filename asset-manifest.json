@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b82d618a.chunk.css",
-    "main.js": "/static/js/main.d69ac74d.chunk.js",
-    "main.js.map": "/static/js/main.d69ac74d.chunk.js.map",
+    "main.js": "/static/js/main.d25dfe26.chunk.js",
+    "main.js.map": "/static/js/main.d25dfe26.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da303ca9.js",
     "runtime-main.js.map": "/static/js/runtime-main.da303ca9.js.map",
     "static/js/2.5e74add6.chunk.js": "/static/js/2.5e74add6.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.b82d618a.chunk.css.map": "/static/css/main.b82d618a.chunk.css.map",
     "static/js/2.5e74add6.chunk.js.LICENSE.txt": "/static/js/2.5e74add6.chunk.js.LICENSE.txt",
-    "static/media/Alex_Nakeeb_resume.a5db23bf.pdf": "/static/media/Alex_Nakeeb_resume.a5db23bf.pdf",
+    "static/media/Alex_Nakeeb_resume.03ded0cb.pdf": "/static/media/Alex_Nakeeb_resume.03ded0cb.pdf",
     "static/media/anakeebLogo.3bbbaabc.svg": "/static/media/anakeebLogo.3bbbaabc.svg",
     "static/media/github.0099e2e0.svg": "/static/media/github.0099e2e0.svg",
     "static/media/linkedin.2905a74b.svg": "/static/media/linkedin.2905a74b.svg",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.da303ca9.js",
     "static/js/2.5e74add6.chunk.js",
     "static/css/main.b82d618a.chunk.css",
-    "static/js/main.d69ac74d.chunk.js"
+    "static/js/main.d25dfe26.chunk.js"
   ]
 }
