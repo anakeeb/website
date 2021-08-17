@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.a617e044.chunk.css",
-    "main.js": "/website/static/js/main.37f7ab21.chunk.js",
-    "main.js.map": "/website/static/js/main.37f7ab21.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.f35bf1ce.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.f35bf1ce.js.map",
-    "static/js/2.f463d34f.chunk.js": "/website/static/js/2.f463d34f.chunk.js",
-    "static/js/2.f463d34f.chunk.js.map": "/website/static/js/2.f463d34f.chunk.js.map",
-    "static/js/3.11292094.chunk.js": "/website/static/js/3.11292094.chunk.js",
-    "static/js/3.11292094.chunk.js.map": "/website/static/js/3.11292094.chunk.js.map",
+    "main.css": "/website/static/css/main.631d3be1.chunk.css",
+    "main.js": "/website/static/js/main.b7f22e4d.chunk.js",
+    "main.js.map": "/website/static/js/main.b7f22e4d.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.c2960c74.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.c2960c74.js.map",
+    "static/js/2.5e74add6.chunk.js": "/website/static/js/2.5e74add6.chunk.js",
+    "static/js/2.5e74add6.chunk.js.map": "/website/static/js/2.5e74add6.chunk.js.map",
+    "static/js/3.c990fbc1.chunk.js": "/website/static/js/3.c990fbc1.chunk.js",
+    "static/js/3.c990fbc1.chunk.js.map": "/website/static/js/3.c990fbc1.chunk.js.map",
     "index.html": "/website/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/website/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.f463d34f.chunk.js.LICENSE.txt": "/website/static/js/2.f463d34f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/website/static/media/logo.6ce24c58.svg"
+    "static/css/main.631d3be1.chunk.css.map": "/website/static/css/main.631d3be1.chunk.css.map",
+    "static/js/2.5e74add6.chunk.js.LICENSE.txt": "/website/static/js/2.5e74add6.chunk.js.LICENSE.txt",
+    "static/media/Alex_Nakeeb_resume.a5db23bf.pdf": "/website/static/media/Alex_Nakeeb_resume.a5db23bf.pdf",
+    "static/media/anakeebLogo.3bbbaabc.svg": "/website/static/media/anakeebLogo.3bbbaabc.svg",
+    "static/media/github.0099e2e0.svg": "/website/static/media/github.0099e2e0.svg",
+    "static/media/linkedin.2905a74b.svg": "/website/static/media/linkedin.2905a74b.svg",
+    "static/media/resume.24961706.svg": "/website/static/media/resume.24961706.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f35bf1ce.js",
-    "static/js/2.f463d34f.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.37f7ab21.chunk.js"
+    "static/js/runtime-main.c2960c74.js",
+    "static/js/2.5e74add6.chunk.js",
+    "static/css/main.631d3be1.chunk.css",
+    "static/js/main.b7f22e4d.chunk.js"
   ]
 }
